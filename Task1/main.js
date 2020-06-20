@@ -14,4 +14,4 @@ else if (first == 0){
 }
 console.log();
 
-//added some text to task 1
+
